@@ -4,7 +4,7 @@
     开发基于移动端布局，如果要支持PC端布局，建议自行修改css样式。
     环境依赖：webpack,babel(ES6),vue(.vue)
 
-    下载：npm install j-toast或者yarn add j-toast
+    下载：npm install Vue-delog
 
 ## 使用
 
